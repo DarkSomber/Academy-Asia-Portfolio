@@ -1,0 +1,69 @@
+body {
+    background-color: #9F9FED;
+}
+
+hr {
+    border: solid 1px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    position: relative;
+    top: -15px;
+    text-align: center;
+}
+
+
+.InfoBox {
+    position: relative;
+    left: 45rem;
+    background-color: #FEF9FF;
+    border: solid 2px;
+    border-radius: 10px;
+    width: 500px;
+    height: 800px;
+}
+
+.photo {
+    border: solid 2px;
+    border-radius: 10px;
+    position: relative;
+    top: .40rem;
+    left: 73%;
+}
+
+.TitleCard {
+    font-size: 18px;
+    position: relative;
+    right: 4.1rem;
+    bottom: 8rem;
+    margin-bottom: -8rem;
+}
+
+.InfoGeneral{
+    font-size: 20px;
+    margin: 12px;
+    margin-top: 1rem;
+    line-height: 1.60rem;
+}
+
+.ED {
+    margin-top: 2rem;
+}
+
+.School {
+    font-size: 20px;
+    margin: 12px;
+    line-height: 1.60rem;
+}
+
+.Skills {
+    margin-top: 2rem;
+}
+
+.Sk1 {
+    font-size: 18px;
+}
